@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap:http://prototypes.kissmetrics.com/sitemap.xml
